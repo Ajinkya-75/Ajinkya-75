@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajinkya Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
-
+<img align='right' src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="230">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkya-75&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkya-75" /> </p>
 
 <!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajinkya-75" alt="ajinkya-75" /></a> </p> -->
