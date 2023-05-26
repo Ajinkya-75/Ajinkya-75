@@ -1,3 +1,4 @@
+<div style="background-color: #f1f1f1; padding: 20px;">
 <h1 align="center">Hi 👋, I'm Ajinkya Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align='right' src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="230">
@@ -38,3 +39,4 @@
 
 <!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkya-75&" alt="ajinkya-75" /></p> -->
 
+</div>
