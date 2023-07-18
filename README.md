@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ajinkya_4583" target="blank"><img src="https://img.shields.io/twitter/follow/ajinkya_4583?logo=twitter&style=for-the-badge" alt="ajinkya_4583" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on <a href="https://portfolio-ajinkya-75.vercel.app/">**Portfolio**
 
 - 🌱 I’m currently learning **Spring and Nodejs**
 
