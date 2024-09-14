@@ -15,16 +15,16 @@
 
 - 📫 Reach me at **ajinkya.ds75@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ANjbquf-V2Jv733IYAabHqLna4Oe4IMr/view?usp=sharing](https://drive.google.com/file/d/1ANjbquf-V2Jv733IYAabHqLna4Oe4IMr/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GfMORuxpMJtz-6fnBSWU6jTL9fMY_BED/view?usp=sharing](https://drive.google.com/file/d/1GfMORuxpMJtz-6fnBSWU6jTL9fMY_BED/view?usp=sharing)
 
 - ⚡ Fun fact **My favorite error message is 'Hello, World!' because it means my code is finally working. 🌍😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ajinkya-s-56916383" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ajinkya-s-56916383"  /></a>
-<a href="https://instagram.com/_invincible_ajinkya_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_invincible_ajinkya_" /></a>
+<a href="https://instagram.com/jiinkssss" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="jiinkssss" /></a>
 <a href="https://www.hackerrank.com/ajinkya_ds75" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="ajinkya_ds75"  /></a>
-<a href="https://www.leetcode.com/user0039w" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="user0039w" /></a>
+<a href="https://www.leetcode.com/ajinkya75" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="ajinkya75" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ajinkyads75/profile" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="ajinkyads75/profile" /></a>
 <a href="https://twitter.com/ajinkya_4583" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="ajinkya_4583" /></a>
 </p>
